@@ -5,3 +5,5 @@
 ###-- pull changes and address meres
 
 ### date of the exercise: 11.12.2024
+
+### try git fetch
